@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/ayshh-tools/.github/main/assets/logo.png" alt="아영이네 행복주택" width="180">
   </picture>
 
-# 아영이네 공고지도
+# 아영이네 행복주택
 
 **복잡한 임대주택 공고, 지도에서 한눈에.**
 
@@ -26,6 +26,6 @@
 
 [**공고지도 웹사이트**](https://ayshh-tools.github.io/content/map/) · [배포 저장소](https://github.com/ayshh-tools/ayshh-tools.github.io)
 
-공고지도와 영상 제작을 위한 도구를 함께 만듭니다.
+아영이네 행복주택의 공고지도와 영상 제작을 위한 도구를 함께 만듭니다.
 
 <sub>지도 정보는 참고용입니다. 신청 전 해당 공급기관의 공식 공고문에서 최신 조건과 일정을 확인해 주세요.</sub>
